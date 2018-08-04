@@ -1,3 +1,3 @@
 # React header bar challenge starting point
 
-[GitHub](https://github.com/Thinkful-Ed/react-header-bar-starting-point)
+[GitHub](https://github.com/rbertolette/tf-rb-react-header-bar.git)
